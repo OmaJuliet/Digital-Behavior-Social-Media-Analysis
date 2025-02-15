@@ -168,11 +168,11 @@ So what are my suggestions and the key takeaways?
 
 
 ## Dashboard pages 👇
-![Social Media Engagement Analysis Dashboard Page 1](social-media-engagement-analysis-dashboard-page1) 
-![Social Media Engagement Analysis Dashboard Page 2](social-media-engagement-analysis-dashboard-page2) 
+![Social Media Engagement Analysis Dashboard Page 1](social-media-engagement-analysis-dashboard-page1.png) 
+![Social Media Engagement Analysis Dashboard Page 2](social-media-engagement-analysis-dashboard-page2.png) 
 
 
-#### (Full report)[https://lookerstudio.google.com/s/hhgSYseGzZg]
+#### [Full report](https://lookerstudio.google.com/s/hhgSYseGzZg)
 
 
 ### Full report PDF👇
